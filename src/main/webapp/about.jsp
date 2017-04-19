@@ -1257,7 +1257,7 @@
                     <td>Niklas Wuensche</td>
                     <td><a href="https://github.com/TEAMMATES/teammates/issues?q=involves%3ANWuensche"
                         target="_blank" rel="noopener noreferrer">bug reporting/fixing, enhancements</a></td>
-                </tr>                
+                </tr>
                 <tr>
                     <td>Nilaksha Perera</td>
                     <td><a href="https://github.com/TEAMMATES/teammates/issues?q=involves%3ANilaksha"
@@ -1444,7 +1444,10 @@
                 </tr>
             </table>
         </section>
-        <p>
-            Would you like to join the TEAMMATES team as a contributor? <a href="contact.jsp">Contact Us</a>.
-        </p>
+        <div>
+            <hr>
+            <p align="center">
+                Would you like to join the TEAMMATES team as a contributor? <a href="contact.jsp">Contact Us</a>.
+            </p>
+        </div>
 </t:staticPage>
